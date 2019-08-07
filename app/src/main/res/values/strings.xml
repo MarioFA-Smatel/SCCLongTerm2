@@ -1,0 +1,10 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">Planapp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+=======
+    <string name="app_name">SCC/Longterm</string>
+>>>>>>> 6b6371163c4f9a7b93a41feeb0394945614c6896
+</resources>
